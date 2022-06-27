@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frixjay
+- 👋 Hi, I’m Jacob 
 - 👀 I’m interested in anything about coding
 - 🌱 I’m currently learning css and will love to still study further
 - 💞️ I’m looking to collaborate on any project that has to with coding
