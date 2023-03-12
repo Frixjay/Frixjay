@@ -1,0 +1,105 @@
+<style>    
+  .paragraph {color: black;
+margin-top: 15px;
+    text-align: center;
+    font-size:30px;
+    }
+                                    
+  h1 {text-align:center;
+      color:purple;
+      font-family:Courier;
+      text-shadow:2px 2px 2px black;}
+               
+  h2 {text-align:center;}
+  
+  h4 {color:purple;
+      font-weight:50px;}
+      
+  h4 a {text-decoration: none;
+        color: purple;}          
+                               
+  h5 {text-align:center;
+      color: purple;
+      font-family:Cursive;
+      font-size:20px;}
+                
+  header {text-align: center;
+          color:green;}
+                 
+  body {background-image: linear-gradient(to left,pink,violet,pink);} 
+                 
+  p {color:black;font-size:20px;} 
+  
+  iframe{padding-left: 5px;}        
+            
+ footer section .p{text-align: center; background-color: pink;
+            height:5px;
+            font-size:20px;}
+            
+          form {background-image: linear-gradient(to left,gray,violet);
+           margin:10px;
+           padding-top:5px;}
+           
+       div form {height: 150px;}
+          
+          hr {background-color:purple;}
+          
+          b {font-weight: 1000;
+          font-family:courier; 
+          font-style: italic; color: grey;}
+          
+ footer  {background-image: linear-gradient(to left,violet,pink,violet);
+            margin: auto;
+            padding-right: 10px;
+            padding-left: 10px;}
+            
+footer section {text-align:center;
+         text-decoration: none;
+         display: inline-block;
+         padding-top: 10px;}
+         
+footer div a {justify-content:center;
+           text-decoration: none;
+           display:inline-block;
+           padding-top:25px;
+           padding-left:12px;
+           margin-left: 5px;
+           color:purple;}    
+            
+.fa {padding: 27px;
+     font-size: 15px;
+     width: 10px;
+     height:5px;
+     text-align: center;
+     text-decoration: none;
+     margin: 20px 10px;
+     border-radius: 20px;}
+     
+.fa:hover {opacity: 0.7;}
+
+.fa-facebook{
+  background: #3B5998;
+  color: white;}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+         
+  main a{text-decoration: none;
+  color:purple;
+  padding-right: 2.5px;}
+              
+         </style>
